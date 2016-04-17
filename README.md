@@ -1,0 +1,1 @@
+Arduino and Electric Imp code for a small, wifi-controllable robot. This robot was built as a final project for ESE 190 at the University of Pennsylvania. The robot uses 2 Arduino Leonardos and an Electric Imp chip and April Impee board. The robot has 3 DC motors with built in encoders.
